@@ -83,7 +83,7 @@ dependencies {
     implementation 'androidx.annotation:annotation:1.1.0'
 
     implementation 'de.hdodenhof:circleimageview:2.0.0'
-    implementation 'com.github.nirhart:parallaxscroll:dd53d1f9d1'
+    implementation 'com.github.nirhart:parallaxscroll:1.0'
     implementation 'com.larswerkman:HoloColorPicker:1.5'
     implementation 'com.github.guardian:Option:-SNAPSHOT' 
     implementation 'net.rdrei.android.dirchooser:library:3.0@aar'

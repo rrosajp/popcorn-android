@@ -77,7 +77,7 @@ dependencies {
 
     api 'com.koushikdutta.async:androidasync:2.1.9'
 
-    api 'de.timroes:aXMLRPC:1.8.1'
+    api 'de.timroes:aXMLRPC:1.8.0'
 
     api "com.google.dagger:dagger:${rootProject.ext.daggerVersion}"
 
